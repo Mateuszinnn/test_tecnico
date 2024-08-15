@@ -80,13 +80,18 @@ class CardHistory extends StatelessWidget {
                         Column(
                           crossAxisAlignment: CrossAxisAlignment.end,
                           children: [
-                            Text(
-                              produto.nome,
-                              textAlign: TextAlign.end,
-                              style: const TextStyle(
-                                color: Colors.white,
-                                fontWeight: FontWeight.w500,
-                                fontSize: 17,
+                            SizedBox(
+                              width: 200,
+                              child: Text(
+                                produto.nome,
+                                textAlign: TextAlign.end,
+                                style: const TextStyle(
+                                  color: Colors.white,
+                                  fontWeight: FontWeight.w500,
+                                  fontSize: 17,
+                                ),
+                                overflow: TextOverflow.visible,
+                                maxLines: 2,
                               ),
                             ),
                             Text(
