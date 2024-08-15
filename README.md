@@ -93,7 +93,7 @@ Com o servidor Node.js rodando, e o aplicativo Flutter iniciado, você poderá t
 ### 4. **Testes**
    - Realizei testes manuais para verificar a integração entre o frontend e o backend, garantindo que as rotas do servidor respondessem corretamente e que o banco de dados estivesse armazenando as informações conforme esperado.
 
-A respeito do design do app eu me inspirei em um design que encontrei no [dribbble](https://dribbble.com/shots/23475154-E-Commerce-Mobile-App) que pessoalmente me agradou.
+A respeito do design do app eu me inspirei em um design que encontrei no [dribbble](https://dribbble.com/shots/23475154-E-Commerce-Mobile-App?utm_source=Clipboard_Shot&utm_campaign=perevoz&utm_content=E-Commerce%20Mobile%20App&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=perevoz&utm_content=E-Commerce%20Mobile%20App&utm_medium=Social_Share) que pessoalmente me agradou.
 
 ## Desenvolvido por Mateus de Almeida
 
